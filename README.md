@@ -1,6 +1,7 @@
 ## 🎓 Education
 
 ### 🤖 When I can, I will create an Unsafe Superintelligence to counter the Safe Superintelligence.
+## 🦾 I don’t want cute robots — I want wild, crazy, revolutionary robots.
 
 Undergraduate Degree in Data Science — UNINTER, Curitiba/Paraná
 
