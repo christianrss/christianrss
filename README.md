@@ -14,6 +14,6 @@ Bachelor’s in Mathematics — 2st year
 
 Bachelor’s in Economic Sciences — 3nd year
 
-Bachelor's in Chemistry - 1st year
+Bachelor's in Mechanical Engineering - 3nd year
 
 Technical Degree in Mechatronics — Colégio Salesiano Dom Lasagna, Araçatuba/São Paulo
