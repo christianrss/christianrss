@@ -3,7 +3,7 @@
 ### 🤖 When I can, I will create an Unsafe Superintelligence to counter the Safe Superintelligence.
 ## 🦾 I don’t want cute robots — I want wild, crazy, revolutionary robots.
 
-Postgraduate Degree in Electronic Engineering and Robotics (In progress)
+Postgraduate Degree in Electronic Engineering and Robotics
 — UNINTER, Curitiba/Paraná
 
 Undergraduate Degree in Data Science — UNINTER, Curitiba/Paraná
