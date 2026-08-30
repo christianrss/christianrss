@@ -8,11 +8,11 @@ Postgraduate Degree in Electronic Engineering and Robotics
 
 Undergraduate Degree in Data Science — UNINTER, Curitiba/Paraná
 
-Bachelor’s in Electrical Engineering — 3nd year
+Bachelor’s in Electrical Engineering — 3rd year
 
-Bachelor’s in Mathematics — 2st year
+Bachelor’s in Mathematics — 2nd year
 
-Bachelor’s in Economic Sciences — 3nd year
+Bachelor’s in Economic Sciences — 3rd year
 
 Bachelor's in Mechanical Engineering - 3nd year
 
