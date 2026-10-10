@@ -1,5 +1,3 @@
-<img src="https://me.christiansoftware.org/assets/christian-rafael-photo.jpg" alt="Christian Rafael de Souza Silva" width="145" align="right">
-
 # Christian Rafael de Souza Silva
 
 **Software Engineer · ML Systems & AI Infrastructure · Systems Programming**
