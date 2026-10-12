@@ -25,6 +25,9 @@ A learning-focused tensor and automatic-differentiation framework with dynamic c
 ### [Engineering Manual — Technical knowledge base](https://github.com/christianrss/manual)
 A bilingual engineering reference covering computer science, software engineering, algorithms, data structures, system design, and related foundations. Built with a static publishing pipeline, search, and structured learning paths. [Read online](https://manual.christiansoftware.org/).
 
+### [Domine a Guitarra — Interactive guitar learning platform](https://www.domineaguitarra.com.br/)
+A free, browser-based guitar education platform with structured lessons, interactive chord diagrams and voicing variations, triads, scales, tablature, and audio practice tools. The curriculum covers fundamentals, technique, rhythm, harmony, and ear training.
+
 ### [Marginal Thinking — Research and publishing platform](https://github.com/logicvisionai/marginalthinking)
 An independent research platform focused on macroeconomics, markets, political economy, and geopolitics, supported by a reproducible publishing pipeline and machine-readable research interfaces. [Visit the site](https://marginalthinking.org/).
 
